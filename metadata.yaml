@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39861'
     url: http://www.gutenberg.org/2009/agents/39861
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41145#An-account-of-the-Death-of-Philip-Jolinwho-was-executed-for-the-murder-of-his-father-in-the-I_
 gutenberg_issued: '2012-10-22'
 gutenberg_type: Text
 identifiers:
