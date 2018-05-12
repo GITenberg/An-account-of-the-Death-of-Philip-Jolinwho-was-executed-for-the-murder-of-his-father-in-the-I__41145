@@ -1,0 +1,30 @@
+_repo: An-account-of-the-Death-of-Philip-Jolinwho-was-executed-for-the-murder-of-his-father-in-the-I__41145
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cunningham, Francis
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '39861'
+    url: http://www.gutenberg.org/2009/agents/39861
+description: ''
+gutenberg_issued: '2012-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trials (Murder) -- Jersey'
+- !lcc 'KD'
+- !lcsh 'Jolin, Philippe, -1829'
+title: 'An account of the Death of Philip Jolin
+
+  who was executed for the murder of his father, in the Island of Jersey, October
+  3, 1829'
+url: http://www.gutenberg.org/ebooks/41145
